@@ -5,15 +5,20 @@
     vertical-align: middle;
     width:160px;
     height:200px;
-
-
 }
+
+#imagenPerfil{
+    float: left;
+    vertical-align: middle;
+    margin-right: 30px;
+}
+
 #body{
     background-color: rgb(65, 164, 221);
 }
 #bodyPerfil{
 
-    background-color: rgb(143, 233, 233);
+    background-color: rgb(179, 233, 233);
 }
 
 #titulo{

@@ -70,6 +70,7 @@
     
         background:rgb(153, 188, 219) ;
         padding: 10px;
+
         
     
     
@@ -91,8 +92,6 @@
     
     
     }
-
-
     #grid2{
         display: grid;
         grid-template-columns: 100%;

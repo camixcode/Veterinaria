@@ -15,11 +15,13 @@
 }
 
 #body{
+
     background-color: rgb(65, 164, 221);
 }
 #bodyPerfil{
 
     background-color: rgb(179, 233, 233);
+    
 }
 
 #titulo{
@@ -39,3 +41,61 @@
     background-color: aqua;
     margin-top: 50px;
 }
+
+
+
+#colorHeader{
+    background-color: rgb(68, 68, 192);
+    
+    }
+    #titulo{
+        background-color: rgb(68, 68, 192);
+        text-align: center;
+    }
+    #imagen{
+    
+        float: left;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    
+    #body{
+    
+        background-color: rgb(68, 68, 192);
+        font-family: sans-serif;
+    
+    
+    }
+    #div{
+    
+        background:rgb(153, 188, 219) ;
+        padding: 10px;
+        
+    
+    
+    
+    }
+    #div:hover{
+        border: 5px solid darkblue;
+    
+    }
+    #grid{
+        display: grid;
+        grid-template-columns: 150px;
+        grid-template-rows: 100px 100px 100px 100px 100px;
+        float: left;
+        margin-right: 5px;
+        background-color: rgb(68, 68, 192);
+        gap: 5px;
+        
+    
+    
+    }
+
+
+    #grid2{
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 171px 171px 171px 171px;
+        gap: 5px;
+    }

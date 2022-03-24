@@ -32,3 +32,10 @@
     margin-right: 100px;
     text-align: left;
 }
+#general{
+
+    width: 960px;
+    height: 100px;
+    background-color: aqua;
+    margin-top: 50px;
+}

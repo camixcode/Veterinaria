@@ -87,7 +87,7 @@
     #grid{
         display: grid;
         grid-template-columns: 150px;
-        grid-template-rows: 136px 136px 136px 136px 136px;
+        grid-template-rows: 700px;
         float: left;
         margin-right: 5px;
         background-color: rgb(68, 68, 192);

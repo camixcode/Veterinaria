@@ -73,7 +73,7 @@
     
         background:rgb(0, 174, 255) ;
         padding: 10px;
-        text-align: left;
+        text-align: center;
 
     }
     #div2_2{
@@ -139,6 +139,9 @@
     }
 
     #div:hover{
-
         border: 5px solid rgb(0, 139, 0);
+    }
+
+    #mouse:hover{
+        text-decoration-color: blueviolet;
     }

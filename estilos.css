@@ -63,13 +63,41 @@
     }
     #div{
     
-        background:rgb(153, 188, 219) ;
+        background:rgb(48, 58, 66) ;
         padding: 10px;
         text-align: center;
         
+    }
+
+    #div2_1{
     
+        background:rgb(0, 174, 255) ;
+        padding: 10px;
+        text-align: center;
+
+    }
+    #div2_2{
     
+        background:rgb(250, 236, 36) ;
+        padding: 10px;
+        text-align: center;
+        
+    }
+
+    #div2_3{
     
+        background:rgb(230, 104, 0) ;
+        padding: 10px;
+        text-align: center;
+        
+    }
+
+    #div2_4{
+    
+        background:rgb(255, 0, 0) ;
+        padding: 10px;
+        text-align: center;
+        
     }
 
     #div2{
@@ -87,11 +115,9 @@
     #grid{
         display: grid;
         grid-template-columns: 150px;
-        grid-template-rows: 700px;
+        grid-template-rows: 685px;
         float: left;
-        margin-right: 5px;
         background-color: rgb(68, 68, 192);
-        gap: 5px;
         
     
     
@@ -100,7 +126,7 @@
         display: grid;
         grid-template-columns: 100%;
         grid-template-rows: 171px 171px 171px 171px;
-        gap: 5px;
+
     }
     #boton{
         align-items: center;

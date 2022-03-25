@@ -139,6 +139,9 @@
     }
 
     #div:hover{
-
         border: 5px solid rgb(0, 139, 0);
+    }
+
+    #mouse:hover{
+        text-decoration-color: blueviolet;
     }

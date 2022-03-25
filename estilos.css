@@ -64,8 +64,9 @@
     #div{
     
         background:rgb(48, 58, 66) ;
-        padding: 10px;
+        padding : 10px;
         text-align: center;
+        align-items: center;
         
     }
 
@@ -73,7 +74,7 @@
     
         background:rgb(0, 174, 255) ;
         padding: 10px;
-        text-align: center;
+        text-align: left;
 
     }
     #div2_2{
@@ -132,16 +133,22 @@
     }
     #boton:hover{
         align-items: center;
-        border: 5px solid darkblue;
-        color:#ffffff !important;
+        color:#3a3939 !important;
         text-decoration-color: bisque;
 
     }
 
     #div:hover{
-        border: 5px solid rgb(0, 139, 0);
+        border: 5px solid rgb(255, 255, 255);
+        background-color: #ffffff;
+        text-decoration: underline;
+        border: #7bd8f0 solid 3px;
     }
 
-    #mouse:hover{
-        text-decoration-color: blueviolet;
+    #boton{
+        margin-bottom: 30px;
+
     }
+
+   
+   

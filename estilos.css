@@ -16,7 +16,7 @@
 
 #body{
 
-    background-color: rgb(65, 164, 221);
+    background-color: rgb(48, 58, 66);
 }
 #bodyPerfil{
 
@@ -45,18 +45,18 @@
 
 
 #colorHeader{
-    background-color: rgb(68, 68, 192);
+    background-color: rgb(48, 58, 66);
     
     }
     #titulo{
-        background-color: rgb(68, 68, 192);
+        background-color: rgb(48, 58, 66);
         text-align: center;
     }
 
     
     #body{
     
-        background-color: rgb(68, 68, 192);
+        background-color: rgb(48, 58, 66);
         font-family: sans-serif;
     
     
@@ -126,6 +126,7 @@
         display: grid;
         grid-template-columns: 100%;
         grid-template-rows: 171px 171px 171px 171px;
+        margin-right: 30px;
 
     }
     #boton{

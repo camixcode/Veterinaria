@@ -141,13 +141,14 @@
 
     #div:hover{
         border: 5px solid rgb(255, 255, 255);
-        background-color: #ffffff;
+        background-color: #564b68;
         text-decoration: underline;
         border: #7bd8f0 solid 3px;
     }
 
     #boton{
         margin-bottom: 30px;
+        color: #ffffff;
 
     }
 

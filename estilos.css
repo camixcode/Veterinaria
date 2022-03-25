@@ -108,16 +108,17 @@
     
     
     }
-    #div:hover{
-        border: 5px solid darkblue;
+  
     
-    }
+    
     #grid{
         display: grid;
         grid-template-columns: 150px;
         grid-template-rows: 685px;
         float: left;
         background-color: rgb(68, 68, 192);
+        
+        
         
     
     
@@ -129,7 +130,15 @@
         margin-right: 30px;
 
     }
-    #boton{
+    #boton:hover{
         align-items: center;
+        border: 5px solid darkblue;
+        color:#ffffff !important;
+        text-decoration-color: bisque;
 
+    }
+
+    #div:hover{
+
+        border: 5px solid rgb(0, 139, 0);
     }

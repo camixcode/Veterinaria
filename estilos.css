@@ -58,13 +58,14 @@
     
         background-color: rgb(48, 58, 66);
         font-family: sans-serif;
+        color: #ffffff;
     
     
     }
     #div{
     
         background:rgb(48, 58, 66) ;
-        padding : 10px;
+        padding: 10px;
         text-align: center;
         align-items: center;
         

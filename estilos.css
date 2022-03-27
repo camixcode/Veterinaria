@@ -12,6 +12,7 @@
     vertical-align: middle;
     margin-right: 30px;
     margin-left: 30px;
+    margin-bottom: 10%;
 }
 
 #body{
@@ -46,12 +47,19 @@
     
     }
     #titulo{
+
         background-color: rgb(48, 58, 66);
         text-align: center;
         color: #ffffff;
         font-family: sans-serif;
     }
 
+    #volverInicio{
+        
+        text-align: center;
+        color: #ffffff;
+        font-family: sans-serif;
+    }
     
     #body{
     
@@ -136,6 +144,8 @@
         align-items: center;
         color:#3a3939 !important;
         text-decoration-color: bisque;
+        text-align: center;
+
 
     }
 
@@ -149,14 +159,17 @@
     #boton{
         margin-bottom: 30px;
         color: #ffffff;
+        
+
 
     }
 
    .center{
-    margin: auto;
-    width: 50%;
+    margin-bottom: 2%;
+    width: 100%;
     border: 3px solid black;
     padding: 10x;
+    text-align: center;
    }
    
 

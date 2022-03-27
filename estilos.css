@@ -24,10 +24,7 @@
     
 }
 
-#titulo{
 
-    font-family: fantasy;
-}
 #parrafo{
 
     margin-left: 100px;
@@ -162,3 +159,7 @@
     padding: 10x;
    }
    
+   #body_interior{
+
+    background-color: #ffffff;
+   }

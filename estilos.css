@@ -162,3 +162,10 @@
     padding: 10x;
    }
    
+   @media screen and (max-width:1300px) and (max-heigth:600px) {
+       #grid2{
+        grid-template-rows: 500px 500px 500px 550px;
+
+
+       }
+}
